@@ -78,7 +78,7 @@ After all tasks complete and verified:
 
 ## Integration
 
-**Required workflow skills:**
-- **superpowers:using-git-worktrees** - REQUIRED: Set up isolated workspace before starting
+**Optional workflow skills:**
+- **superpowers:using-git-worktrees** - Only use when explicitly requested: Set up isolated workspace
 - **superpowers:writing-plans** - Creates the plan this skill executes
 - **superpowers:finishing-a-development-branch** - Complete development after all tasks
